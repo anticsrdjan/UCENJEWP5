@@ -3,7 +3,39 @@
 
 using UcenjeCS;
 
-E10TryCatch.Izvedi();
+new UcenjeCS.E18KonzolnaAplikacija.Izbornik();
+
+//new UcenjeCS.E17GenericiLambdaEkstenzije.Program();
+
+//new UcenjeCS.E16NasljedivanjePolimorfizam.Program();
+
+//UcenjeCS.E15KlasaObjekt.Program.Izvedi();
+
+//E13Vjezbanje.Izvedi();
+
+//E12Rekurzija.Izvedi();
+
+//E11Z1.Izvedi();
+
+//E11Metode.Izvedi();
+
+//E11Metode.Tip1(); // ne vidmo metodu jer je privatna
+
+//E01Z4.Izvedi();
+
+//E06Z1.Izvedi();
+
+//E07Z2.Izvedi();
+
+//E03Z4.Izvedi();
+
+//E01Z3.Izvedi();
+
+//E01Z2.Izvedi();
+
+//E01Z1.Izvedi();
+
+//E10TryCatch.Izvedi();
 
 //E09ForeachPetlja.Izvedi();
 
